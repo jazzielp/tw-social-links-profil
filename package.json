@@ -1,0 +1,14 @@
+{
+  "name": "tw-social-links-profile",
+  "version": "1.0.0",
+  "description": "This is a tailwind project",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "Jazziel Puente <Jazziel.puente.v@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
